@@ -25,7 +25,7 @@ namespace BIOS.Classes
         /// </summary>
         public Label SystemTimeClock()
         {
-            
+            return new Label();
         }
     }
 }
